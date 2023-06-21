@@ -10,12 +10,14 @@ The asymptote of perfection is once again the goal. You repeat the exercise over
 
 ### internal
 
-* ...
+* [Conways Game of Life](#)
 
 
 ### external
 
-* [The Bowling Game](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+* [The Bowling Game](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)  
+  => _Robert C. Martin, Agile Software Development: Principles, Patterns, and
+Practices, Upper Saddle River, NJ: Prentice Hall, 2003._
 
 * [Prime Factors](http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata)
 
